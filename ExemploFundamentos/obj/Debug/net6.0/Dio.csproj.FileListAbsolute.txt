@@ -1,0 +1,48 @@
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/Dio.csproj.AssemblyReference.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/Dio.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/Dio.AssemblyInfoInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/Dio.AssemblyInfo.cs
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/Dio.csproj.CoreCompileInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio/bin/Debug/net6.0/Dio
+/home/oem/Área de trabalho/Luiz/net core/Dio/bin/Debug/net6.0/Dio.deps.json
+/home/oem/Área de trabalho/Luiz/net core/Dio/bin/Debug/net6.0/Dio.runtimeconfig.json
+/home/oem/Área de trabalho/Luiz/net core/Dio/bin/Debug/net6.0/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio/bin/Debug/net6.0/Dio.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/refint/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/Dio.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/Dio.genruntimeconfig.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio/obj/Debug/net6.0/ref/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /bin/Debug/net6.0/Dio
+/home/oem/Área de trabalho/Luiz/net core/Dio /bin/Debug/net6.0/Dio.deps.json
+/home/oem/Área de trabalho/Luiz/net core/Dio /bin/Debug/net6.0/Dio.runtimeconfig.json
+/home/oem/Área de trabalho/Luiz/net core/Dio /bin/Debug/net6.0/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /bin/Debug/net6.0/Dio.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/Dio.csproj.AssemblyReference.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/Dio.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/Dio.AssemblyInfoInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/Dio.AssemblyInfo.cs
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/Dio.csproj.CoreCompileInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/refint/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/Dio.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/Dio.genruntimeconfig.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /obj/Debug/net6.0/ref/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/bin/Debug/net6.0/Dio
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/bin/Debug/net6.0/Dio.deps.json
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/bin/Debug/net6.0/Dio.runtimeconfig.json
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/bin/Debug/net6.0/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/bin/Debug/net6.0/Dio.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/bin/Debug/net6.0/DioFunds.Common.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/bin/Debug/net6.0/DioFunds.Common.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.csproj.AssemblyReference.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.AssemblyInfoInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.AssemblyInfo.cs
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.csproj.CoreCompileInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.csproj.CopyComplete
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/refint/Dio.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/Dio.genruntimeconfig.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploFundamentos/obj/Debug/net6.0/ref/Dio.dll

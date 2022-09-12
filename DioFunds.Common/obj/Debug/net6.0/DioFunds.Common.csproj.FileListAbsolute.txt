@@ -1,0 +1,12 @@
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/bin/Debug/net6.0/DioFunds.Common.deps.json
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/bin/Debug/net6.0/DioFunds.Common.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/bin/Debug/net6.0/DioFunds.Common.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/DioFunds.Common.csproj.AssemblyReference.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/DioFunds.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/DioFunds.Common.AssemblyInfoInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/DioFunds.Common.AssemblyInfo.cs
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/DioFunds.Common.csproj.CoreCompileInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/DioFunds.Common.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/refint/DioFunds.Common.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/DioFunds.Common.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /DioFunds.Common/obj/Debug/net6.0/ref/DioFunds.Common.dll

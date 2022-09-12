@@ -1,0 +1,15 @@
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/bin/Debug/net6.0/ExemploNet6
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/bin/Debug/net6.0/ExemploNet6.deps.json
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/bin/Debug/net6.0/ExemploNet6.runtimeconfig.json
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/bin/Debug/net6.0/ExemploNet6.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/bin/Debug/net6.0/ExemploNet6.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ExemploNet6.csproj.AssemblyReference.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ExemploNet6.GeneratedMSBuildEditorConfig.editorconfig
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ExemploNet6.AssemblyInfoInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ExemploNet6.AssemblyInfo.cs
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ExemploNet6.csproj.CoreCompileInputs.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ExemploNet6.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/refint/ExemploNet6.dll
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ExemploNet6.pdb
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ExemploNet6.genruntimeconfig.cache
+/home/oem/Área de trabalho/Luiz/net core/Dio /ExemploNet6/obj/Debug/net6.0/ref/ExemploNet6.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Dio/1.0.0": {
+        "dependencies": {
+          "DioFunds.Common": "1.0.0"
+        },
+        "runtime": {
+          "Dio.dll": {}
+        }
+      },
+      "DioFunds.Common/1.0.0": {
+        "runtime": {
+          "DioFunds.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DioFunds.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
