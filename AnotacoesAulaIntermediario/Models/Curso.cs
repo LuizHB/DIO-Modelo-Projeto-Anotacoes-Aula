@@ -1,0 +1,43 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace AnotacoesAulaIntermediario.Models
+{
+    public class Curso
+    {
+        public string Nome { get; set; }
+        public List<Pessoa> Alunos { get; set; }
+
+        //método com void não retorna nada
+        public void AdicionarAluno(Pessoa aluno)
+        {
+            Alunos.Add(aluno);
+        }
+
+        public int ObterQuantidadeDeAlunosMatriculados()
+        {
+            int quantidade = Alunos.Count;
+            return quantidade;
+        }
+
+        public bool RemoverAluno(Pessoa aluno)
+        {
+            return Alunos.Remove(aluno);
+        }
+
+        public void ListarAlunos()
+        {
+            Console.WriteLine($"Alunos do curso de {Nome}:");
+            for (int count = 0; count < Alunos.Count; count++)
+            {   //concatenação:
+                //string texto = "N° " + count + " " + Alunos[count].NomeCompleto;
+                //interpolação:
+                string texto = $"N° {count + 1} - {Alunos[count].NomeCompleto}";
+                Console.WriteLine(texto);
+            }
+
+        }
+    }
+}
