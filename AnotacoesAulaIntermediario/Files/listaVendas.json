@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Produto": "Material de escritório",
+    "Preco": 25.00,
+    "DataVenda": "2022-09-18T17:15:40.0607366-03:00"
+  },
+  {
+    "Id": 2,
+    "Produto": "Papel",
+    "Preco": 75.00,
+    "DataVenda": "2022-09-18T17:15:40.0607366-03:00"
+  },
+  {
+    "Id": 3,
+    "Produto": "Cadeiras",
+    "Preco": 125.00,
+    "DataVenda": "2022-09-18T17:15:40.0607366-03:00"
+  },
+  {
+    "Id": 4,
+    "Produto": "Hardware",
+    "Preco": 95.00,
+    "DataVenda": "2022-09-18T17:15:40.0607366-03:00"
+  }
+]

@@ -71,5 +71,17 @@ namespace AnotacoesAulaIntermediario.Models
             //sem validação o programa aceita qualquer nome, até mesmo vazio
             Console.WriteLine($"Nome: {NomeCompleto}, Idade: {Idade} anos.");
         }
+
+        //criação de desconstrutor
+        public void Deconstruct(out string nome, out string sobrenome)
+        {//inversão nas variaveis. nome é de saida e esta recebendo Nome que é a de saida
+         //anteriormente, logo neste caso ela é a de entrada 
+            nome = Nome;
+            sobrenome = Sobrenome;
+        }
     }
 }
+
+
+
+
