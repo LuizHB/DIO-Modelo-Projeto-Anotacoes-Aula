@@ -13,7 +13,8 @@ namespace AnotacoesAulaIntermediario.Models
         no arquivo json (não aceito pelo c#)
         Propriedade ler o nome no json e retorna o 
         nome dado pelo método */
-        [JsonProperty("Nome_Produto")]
+        //colocar acima do método:
+        //[JsonProperty("Nome_Produto")]
         public string Produto { get; set; }
         public decimal Preco { get; set; }
         public DateTime DataVenda { get; set; }

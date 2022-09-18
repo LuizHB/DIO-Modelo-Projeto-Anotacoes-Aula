@@ -346,3 +346,55 @@ foreach (Deserializar venda in listaVenda3)
     $"Preço: {venda.Preco}, Data: {venda.DataVenda.ToString("dd/MM/yyyy HH:mm")}" +
     $" {(venda.Desconto.HasValue ? $" Desconto de: {venda.Desconto}" : "")}");
 }
+
+Console.WriteLine("-------------");
+//tipo anonimo, os valores não mudam e não pode retornar em métodos
+var tipoAnonimo = new { NomeA = "Luiz", SobrenomeA = "Bispo", AlturaA = 1.80M };
+Console.WriteLine("Nome: " + tipoAnonimo.NomeA);
+Console.WriteLine("Sobrenome: " + tipoAnonimo.SobrenomeA);
+Console.WriteLine("Altura: " + tipoAnonimo.AlturaA);
+
+Console.WriteLine("-------------");
+//tipo anonimo em coleção
+string colecaoArquivo = File.ReadAllText("Files/listaVendas.json");
+List<Deserializar> listaVenda4 = JsonConvert.DeserializeObject<List<Deserializar>>(colecaoArquivo);
+
+var listaAnonima = listaVenda4.Select(x => new { x.Produto, x.Preco });
+foreach (var venda in listaAnonima)
+{
+    Console.WriteLine($"Produto: {venda.Produto}, Preço: {venda.Preco}");
+}
+
+Console.WriteLine("-------------");
+//tipo dinamico, pode mudar o tipo por escolha 
+dynamic variavelDinamica = true;
+Console.WriteLine($"Tipo de variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+variavelDinamica = 4;
+Console.WriteLine($"Tipo de variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+variavelDinamica = "Texto";
+Console.WriteLine($"Tipo de variável: {variavelDinamica.GetType()}, Valor: {variavelDinamica}");
+
+Console.WriteLine("-------------");
+//classe generica / bom pra reuso de código
+//na hora de chamar ele pede o tipo para prosseguir
+MeuArray<int> arrayInteiro = new MeuArray<int>();
+arrayInteiro.AdicionarElementoArray(20);
+Console.WriteLine(arrayInteiro[0]);
+MeuArray<string> arrayString = new MeuArray<string>();
+arrayString.AdicionarElementoArray("texto");
+Console.WriteLine(arrayString[0]);
+
+Console.WriteLine("-------------");
+//metodo de extensão aplicando classe com método
+//para checar se numero é par ou não
+int numero5 = 34;
+int numero6 = 15;
+bool par, par2 = false;
+par = numero5.EsPar();
+par2 = numero6.EsPar();
+string mensagem = "O número " + numero5 + " é " +
+                   (par ? "par" : "ímpar");
+string mensagem2 = "O número " + numero6 + " é " +
+(par2 ? "par" : "ímpar");
+Console.WriteLine(mensagem);
+Console.WriteLine(mensagem2);
