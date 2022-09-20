@@ -398,3 +398,17 @@ string mensagem2 = "O número " + numero6 + " é " +
 (par2 ? "par" : "ímpar");
 Console.WriteLine(mensagem);
 Console.WriteLine(mensagem2);
+
+Console.WriteLine("-------------");
+//entendendo tipos de memoria - stack e heap
+Pessoa p3 = new Pessoa(nome: "Luiz", sobrenome: "Bispo");
+Pessoa p4 = new Pessoa(nome: "Legal", sobrenome: "Animal");
+Pessoa p6 = p4; //referencia acaba mudando o valor de p4
+p6.Nome = "Kitten";
+Console.WriteLine($"Nome completo p3: {p3.NomeCompleto}");
+Console.WriteLine($"Nome completo p6: {p4.NomeCompleto}");
+int a = 20;
+int b = a;
+b = 35; //não conta como referencia e sim como valor
+        //logo não altera o valor em relação a A
+Console.WriteLine($"Valor de A: {a}, valor de B: {b}");
